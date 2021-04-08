@@ -1,0 +1,25 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+ul {
+    list-style-type: none;
+    margin:0;
+    padding:0;
+    background-color:#283645;
+    overflow:hidden;
+    display: flex;
+}
+
+li a {
+    color:#eee;
+    padding:20px;
+    text-decoration: none;
+    display:block;
+    font-size: 1.2rem;
+    font-family: 'Oswald', sans-serif;
+}
+
+li a:hover{
+    background-color:#1490D7;
+}
